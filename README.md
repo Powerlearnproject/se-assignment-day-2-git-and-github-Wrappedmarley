@@ -3,7 +3,6 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?The two main types of version control systems are:
 
-
 Local Version Control – Maintains versions on a single computer.
 Centralized Version Control (CVCS) – Uses a central server where all changes are stored.
 Distributed Version Control (DVCS) – Each user has a full copy of the repository, allowing offline work and better redundancy. Git is an example of a DVCS.
